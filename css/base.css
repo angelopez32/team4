@@ -22,8 +22,17 @@ ul{
 	list-style-type:none;
 }
 div{
-	-webkit-box-sizing: border-box; -moz-box-sizing:border-box; box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
 }
 a{
-	color: #2ABCB9; font-size:1.07em;
+	color: #2ABCB9;
+	font-size:1.07em;
+}
+.container{
+	border:1px rgb(200, 200, 200) solid;
+	padding:10px;
+	border-radius: 10px;
+	background: #fff;
 }

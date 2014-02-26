@@ -6,6 +6,7 @@
 	width:100%;
 	display: table;
 	box-shadow: 0 0 8px 1px rgb(210, 210, 210);
+	border-bottom:1px #F76C88 solid;
 }
 .logo{
 	height: 50px;
